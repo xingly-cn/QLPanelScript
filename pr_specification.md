@@ -14,7 +14,7 @@ Js版本如下，Python版本以此类推。
  * cron: 57 21 * * *
  * Show: 每天积分，养号
  * 变量名: bnmdhg
- * 变量值: 抓包 cloud.banu.cn/api/ 的member_id 多账号换行分割
+ * 变量值: 抓包 cloud.banu.cn/api/ 的 member_id 多账号换行分割
  * version = "1.0.0";
  */
 
